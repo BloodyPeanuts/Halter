@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Shiny",
+        "repositoryURL": "https://github.com/maustinstar/shiny.git",
+        "state": {
+          "branch": "master",
+          "revision": "862360b8ab6b9ea9eb1156569a30f154b22625a5",
+          "version": null
+        }
+      },
+      {
+        "package": "SlideOverCard",
+        "repositoryURL": "https://github.com/joogps/SlideOverCard.git",
+        "state": {
+          "branch": null,
+          "revision": "ddafedae02dc5423aa872b274d9011412dc4837f",
+          "version": "2.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
